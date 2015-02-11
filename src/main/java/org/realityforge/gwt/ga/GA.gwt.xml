@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module>
-  <inherits name='com.google.gwt.user.Window'/>
-  <inherits name='com.google.gwt.core.Core'/>
-  <inherits name="com.google.gwt.event.Event"/>
-  <inherits name="com.google.gwt.place.Place"/>
-  <source path=''/>
-</module>
